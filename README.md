@@ -5,6 +5,9 @@ This project applies Natural Language Processing (NLP) techniques to analyze men
 
 ## Dataset
 The project uses publicly available mental health dataset collected from Kaggle, including depression-related posts. These datasets are commonly used in mental health NLP research.
+Dataset source:
+- Kaggle: Mental Health Social Media Dataset
+- https://www.kaggle.com/datasets/infamouscoder/mental-health-social-media/data 
 
 ## Methodology
 - Text preprocessing (basic data cleaning, stop words removal, tokenization, lemmenization, and TF-IDF)
