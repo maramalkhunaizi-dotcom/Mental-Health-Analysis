@@ -18,14 +18,19 @@ Dataset source:
 ## Tools & Technologies
 - Python
 - Jupyter Notebook
+- Google Colab
 - Pandas, NumPy
 - Scikit-learn
 - NLP libraries (NLTK and SpaCy)
 
 ## How to Run the Project
-1. Download the repository.
-2. Open `mental_health_analysis.ipynb` in Jupyter Notebook.
-3. Run all cells in order.
+## How to Run the Project
+1. Download or clone the repository.
+2. Ensure the dataset is downloaded from the `data/` folder.  
+   - The original and cleaned datasets are already included in the folder, or  
+   - Alternatively, the original dataset can be downloaded from the provided source link.
+3. Open `mental_health_analysis.ipynb` in Jupyter Notebook (Google Colab).
+4. Run all cells in order.
 
 ## Author
 Maram Alkhunaizi
