@@ -17,7 +17,7 @@ The project uses publicly available mental health dataset collected from Kaggle,
 - Jupyter Notebook
 - Pandas, NumPy
 - Scikit-learn
-- NLP libraries
+- NLP libraries (NLTK and SpaCy)
 
 ## Author
 Maram Alkhunaizi
