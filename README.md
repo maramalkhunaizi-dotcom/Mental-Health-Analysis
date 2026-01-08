@@ -22,5 +22,10 @@ Dataset source:
 - Scikit-learn
 - NLP libraries (NLTK and SpaCy)
 
+## How to Run the Project
+1. Download the repository.
+2. Open `mental_health_analysis.ipynb` in Jupyter Notebook.
+3. Run all cells in order.
+
 ## Author
 Maram Alkhunaizi
